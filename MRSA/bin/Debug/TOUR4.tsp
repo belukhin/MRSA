@@ -1,0 +1,13 @@
+NAME : TOUR4
+TYPE : TOUR
+DIMENSION : 4
+TOUR_SECTION
+2
+4
++
+1
+3
++
++
+-1
+EOF
